@@ -15,7 +15,7 @@ Representantes del partido Fuerza por México han llegado a las oficinas de nues
 
 ## Metodologia. 
 
-Dada la caracterísitca del problema, se decidió utilizar un método de  Análisis No-Supervisado de MAchine Learning, el cual, mediante un proceso de Clusterización,  agrupará a los sectores de la población por características que comparten, pero que no son evidentes en sí mismas. Posteriormente, mediante un estudio cualitativo de los clusters (agrupación de personas), se determinarán los razgos específicos de estos.  
+Dada la caracterísitca del problema, se decidió utilizar un método de  Análisis No-Supervisado de Machine Learning, el cual, mediante un proceso de Clusterización,  agrupará a los sectores de la población por características que comparten, pero que no son evidentes en sí mismas. Posteriormente, mediante un estudio cualitativo de los clusters (agrupación de personas), se determinarán los razgos específicos de estos.  
 
 ## Hallázgos
 
