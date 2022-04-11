@@ -17,7 +17,7 @@ Representantes del partido Fuerza por México han llegado a las oficinas de nues
 
 Dada la caracterísitca del problema, se decidió utilizar un método de  Análisis No-Supervisado de Machine Learning, el cual, mediante un proceso de Clusterización,  agrupará a los sectores de la población por características que comparten, pero que no son evidentes en sí mismas. Posteriormente, mediante un estudio cualitativo de los clusters (agrupación de personas), se determinarán los razgos específicos de estos.  
 
-## Hallázgos
+## Hallazgos
 
 - Se encontraron 3 clusters (grupos de personas) que podrían encontrar atractiva la oferta política de nuestro cliente. 
 - De acuerdo con la muestra utilizada, la suma de los 3 clusters hallados representa el 23 % del padrón electoral. Por tanto, nuestro cliente, que necesita el 3% del voto total para poder conservar su registro, tiene un buen mercado político al que puede dirigirse.  
