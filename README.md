@@ -5,7 +5,7 @@
 
 ## Introducción. 
 
-El presente proyecto tiene la finalidad de coadyuar a establecer las líneas generales que permitirán a un partido político diseñar una propuesta de campaña. Para ello, mediante un Modelo de Anális No Supervisado de Machine Learning, se realizó un análisis del mercado político y de los posibles sectores poblacionales con una mayor tendencia a apoyar a un partido con las características con las que cuentra nuestro cliente. Posteriormente, se dan recomendaciones finales para diseñar, de acuerdo a las caracterísitcas poblacionales, una plataforma política acorde a cada sector. 
+El presente proyecto tiene la finalidad de coadyuvar a establecer las líneas generales que permitirán a un partido político diseñar una propuesta de campaña. Para ello, mediante un Modelo de Anális No Supervisado de Machine Learning, se realizó un análisis del mercado político y de los posibles sectores poblacionales con una mayor tendencia a apoyar a un partido con las características con las que cuentra nuestro cliente. Posteriormente, se dan recomendaciones finales para diseñar, de acuerdo a las caracterísitcas poblacionales, una plataforma política acorde a cada sector. 
 
 
 ## Planteamiento del problema. 
