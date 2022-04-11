@@ -20,4 +20,4 @@ Dada la caracterísitca del problema, se decidió utilizar un método de  Análi
 ## Hallazgos
 
 - Se encontraron 3 clusters (grupos de personas) que podrían encontrar atractiva la oferta política de nuestro cliente. 
-- De acuerdo con la muestra utilizada, la suma de los 3 clusters hallados representa el 23 % del padrón electoral. Por tanto, nuestro cliente, que necesita el 3% del voto total para poder conservar su registro, tiene un buen mercado político al que puede dirigirse.  
+- De acuerdo con la muestra utilizada, la suma de los 3 clusters hallados representa el 23 % del padrón electoral. Por tanto, nuestro cliente, que necesita el 3% del voto total para poder conservar su registro, tiene un mercado político lo suficientemente grande para poder dirigirse.  
