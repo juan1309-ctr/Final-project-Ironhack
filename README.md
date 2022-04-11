@@ -10,7 +10,7 @@ El presente proyecto tiene la finalidad de coadyuvar a establecer las líneas ge
 
 ## Planteamiento del problema. 
 
-Representantes del partido Fuerza por México han llegado a las oficinas de nuestra consultoría. EL cliente manifiesta que necesita elaborar una estrategia de campaña para poder alcanzar la votación necesaria y así conservar su registro. Al no contar con recursos organizativos y económicos tan grandes como aquellos con los que cuentan los partidos grandes, nuestro cliente necesita focalizar sus fuerzas en aquellos sectores que son más proclives a votar por él. Por tanto, es necesario un estudio de la población y hallar qué sector es más probable que vote por dicho partido para, posteriormente, diseñar una plataforma política que les permita acercarse con mayor efectividad. 
+Representantes del partido Fuerza por México han llegado a las oficinas de nuestra consultoría. El cliente manifiesta que necesita elaborar una estrategia de campaña para poder alcanzar la votación necesaria y así conservar su registro. Al no contar con recursos organizativos y económicos tan grandes como aquellos con los que cuentan los partidos grandes, nuestro cliente necesita focalizar sus fuerzas en aquellos sectores que son más proclives a votar por él. Por tanto, es necesario un estudio de la población y hallar qué sector es más probable que vote por dicho partido para, posteriormente, diseñar una plataforma política que les permita acercarse con mayor efectividad. 
 
 
 ## Metodologia. 
